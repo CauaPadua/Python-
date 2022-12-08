@@ -1,0 +1,9 @@
+Print (Vou tentar criar algo, já que é minha primeira vez, não sei como funciona)
+
+Nome = Input ( float ('escolha seu nome:'))
+
+A = Input (float (' qual o ano que você nasceu ?')
+
+Idade = A - (-2022)
+
+Print('Sua idade é de :',ldade, 'anos')
